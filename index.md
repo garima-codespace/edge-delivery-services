@@ -1,3 +1,7 @@
-# Hello EDS 🚀
+# Welcome to EDS
 
-This is my first Edge Delivery Services page.
+## Hero
+Welcome to my site
+
+## Content
+This is working now 🚀
