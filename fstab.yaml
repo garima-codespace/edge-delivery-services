@@ -1,3 +1,2 @@
 mountpoints:
-  /:
-    url: https://github.com/garima-codespace/edge-delivery-services/tree/main
+  /: https://raw.githubusercontent.com/garima-codespace/edge-delivery-services/main
