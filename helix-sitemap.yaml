@@ -1,0 +1,4 @@
+sitemaps:
+  default:
+    origin: /
+    source: /query-index.json
